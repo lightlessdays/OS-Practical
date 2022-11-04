@@ -1,12 +1,5 @@
 # Operating System Practicals
 
-## To Clone this repository:
-**Run the following Commands**
-```bash
-git clone https://github.com/AdityaKoranga/os--practicals.git
-cd os--practicals/
-```
-
 
 These are the operating system practicals questions.
 
